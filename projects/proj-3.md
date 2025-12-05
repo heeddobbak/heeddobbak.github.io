@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UX Prototype: AI Dance Feedback App"
+title: "UX Prototype"
 ---
 
 ## Overview
@@ -14,7 +14,6 @@ This prototype explores how dancers would interact with the AI feedback system t
 - View Feedback History
 - Personal Performance Score
 
-{% include image.html url="" image="projects/proj-3/mockup-home.jpg" %}
 
 ---
 
@@ -24,7 +23,6 @@ This prototype explores how dancers would interact with the AI feedback system t
 - Timing bar
 - Highlighted incorrect joints
 
-{% include image.html url="" image="projects/proj-3/mockup-live.jpg" %}
 
 ---
 
@@ -33,7 +31,6 @@ This prototype explores how dancers would interact with the AI feedback system t
 - Strength vs. flexibility score
 - Recommended exercises
 
-{% include image.html url="" image="projects/proj-3/mockup-summary.jpg" %}
 
 ---
 
@@ -55,4 +52,3 @@ This prototype explores how dancers would interact with the AI feedback system t
 This UX prototype demonstrates how AI-driven analysis can be presented in a user-friendly format. The design will evolve based on experiment results from **Project 2**.
 
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-3/clothes.jpg" %}
