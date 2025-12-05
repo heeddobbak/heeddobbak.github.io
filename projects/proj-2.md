@@ -1,8 +1,56 @@
 ---
 layout: post
-title: 'Project Two'
+title: "Pose Estimation Experiments"
 ---
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices tortor nec nunc hendrerit rutrum. Nullam congue nulla eu placerat convallis. Morbi volutpat dolor nunc, nec dignissim neque condimentum nec. Nullam vel sem egestas augue tempus pulvinar in vitae neque. Ut mattis tincidunt felis, laoreet aliquet ex mollis ac. Sed sit amet nisl id enim blandit facilisis. Maecenas quis ultrices sapien, ac ullamcorper mi.
+
+## Overview
+This project documents my experiments with pose estimation models to analyze dance movements and explore real-time feedback possibilities for the AI Dance Feedback App.
+
+The goal is to understand how accurately AI can detect body keypoints during fast choreography and to identify limitations that need to be solved in future iterations.
+
+---
+
+## Methods
+### 1. Pose Estimation Models Tested
+- **MediaPipe Pose**
+- **OpenPose (pretrained)**
+- **MoveNet (Google TensorFlow Lite)**
+
+### 2. Test Environment
+- Apple MacBook Pro (M2 Pro, 16GB)
+- Google Colab for inference tests
+- Input data: dance performance videos recorded in low-light indoor environments
+
+---
+
+## Key Results
+### ✓ Detection Accuracy
+- MediaPipe performed best in fast arm movements.
+- MoveNet had the most stable keypoint output with low latency.
+- OpenPose struggled with silhouettes wearing dark clothing.
+
+### ✓ Skeleton Visualization
+Below are examples of skeleton estimation applied to sample dance frames:
+
+//{% include image.html url="" image="projects/proj-2/skeleton-sample-1.jpg" %}
+//{% include image.html url="" image="projects/proj-2/skeleton-sample-2.jpg" %}
+
+### ✓ Limitations Observed
+- Low lighting dramatically reduces joint confidence scores.
+- Large clothing and hats obscure elbow and shoulder points.
+- Fast turns cause temporary keypoint loss.
+
+---
+
+## Conclusion
+Pose estimation is suitable for basic real-time feedback but requires:
+- additional smoothing,
+- error correction logic,
+- better lighting conditions,
+- and user calibration.
+
+These findings directly contribute to improving the AI Dance Feedback App prototype.
+
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
