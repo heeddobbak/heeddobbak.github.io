@@ -24,8 +24,9 @@ social:
 - {icon: 'youtube',   link: 'https://www.youtube.com/@2labchois'}
 - {icon: 'instagram', link: 'https://instagram.com/2labchois_dance'}
 - {icon: 'github',    link: 'https://github.com/heeddobbak'}
-- {icon: 'linkedin',  link: 'https://linkedin.com/in/lenpaul'}
-- {icon: 'envelope',  link: 'mailto:mailto:l.nguyen.paul@gmail.com'}
+- {icon: 'envelope', link: 'mailto:heeddobbak@gmail.com'}
+
+#- {icon: 'linkedin',  link: 'https://linkedin.com/in/lenpaul'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
