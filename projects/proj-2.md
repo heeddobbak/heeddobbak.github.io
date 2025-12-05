@@ -3,6 +3,17 @@ layout: post
 title: "Pose Estimation Experiments"
 ---
 
+<style>
+  /* 이 페이지에만 적용되도록 래퍼 ID 사용 */
+  #proj2 .section-title { letter-spacing: 0; line-height: 1.2; margin: 1.4rem 0 0.6rem; }
+  #proj2 h2, #proj2 h3 { letter-spacing: 0; line-height: 1.2; margin: 1.4rem 0 0.6rem; }
+  #proj2 p { margin: 0.5rem 0 0.9rem; }
+  #proj2 ul, #proj2 ol { margin: 0.4rem 0 0.9rem 1.2rem; }
+  #proj2 li { margin: 0.25rem 0; }
+  #proj2 img { display:block; max-width:100%; height:auto; margin:0.4rem 0 0.8rem; }
+</style>
+
+<div id="proj2">
 
 ## Overview
 This project documents my experiments with pose estimation models to analyze dance movements and explore real-time feedback possibilities for the AI Dance Feedback App.
