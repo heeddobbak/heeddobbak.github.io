@@ -13,9 +13,10 @@ This project explores an AI-based training system that analyzes dance fundamenta
 
 ## Skills & Tools
 - Python, Google Colab
-- MediaPipe Pose, OpenCV for motion analysis
+- TensorFlow/TF Hub (MoveNet), MediaPipe Pose, OpenCV for motion analysis
 - NumPy, Matplotlib for visualization
 - Figma for UX design
+- *History:* MediaPipe was explored but replaced due to Python 3.12 compatibility
 
 
 ## Research Goal
