@@ -22,6 +22,6 @@ This project explores an AI-based training system that analyzes dance fundamenta
 ## Research Goal
 To design a system that supports dancers by visualizing performance accuracy and proposing corrections in an easy-to-understand format.
 
-{% include image.html image="projects/proj-1/pr_1_1.jpg" %}
+{% include image.html image="projects/proj-1/pr_1_1.jpg" nolink=true %}
 
-{% include image.html image="projects/proj-1/wall.jpg" %}
+{% include image.html image="projects/proj-1/wall.jpg" nolink=true %}
