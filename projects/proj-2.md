@@ -4,7 +4,6 @@ title: "Pose Estimation Experiments"
 ---
 
 <style>
-  /* 이 페이지에만 적용되도록 래퍼 ID 사용 */
   #proj2 .section-title { letter-spacing: 0; line-height: 1.2; margin: 1.4rem 0 0.6rem; }
   #proj2 h2, #proj2 h3 { letter-spacing: 0; line-height: 1.2; margin: 1.4rem 0 0.6rem; }
   #proj2 p { margin: 0.5rem 0 0.9rem; }
