@@ -18,7 +18,7 @@ The goal is to understand how accurately AI can detect body keypoints during fas
 - **MediaPipe Pose — explored (compatibility issues on Python 3.12)**
 - **OpenPose (pretrained) — explored**
 
-
+<img src="{{ '/assets//img/projects/proj-2/macbook.jpg' | relative_url }}" alt="stretch reference" loading="lazy">
 ### 2. Test Environment
 - Apple MacBook Pro (M2 Pro, 16GB)
 - Google Colab for inference tests
@@ -54,5 +54,3 @@ Pose estimation is suitable for basic real-time feedback but requires:
 
 These findings directly contribute to improving the AI Dance Feedback App prototype.
 
-
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
