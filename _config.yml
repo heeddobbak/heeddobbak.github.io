@@ -7,6 +7,10 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		   "Portfolio Jekyll Theme"
-description: "Powered by Jekyll and GitHub Pages"
-author:      "Paul Le"
+title:		   "AI Dance Feedback App Portfolio"
+description: "A research portfolio exploring AI-based dance fundamental training and real-time feedback systems, integrating pose estimation, motion analysis, and prototype development.
+"
+url: "https://heeddobbak.github.io"
+email: "heeddobbak@gmail.com"
+github: "heeddobbak"
+name:      "Heeseon Choi"
