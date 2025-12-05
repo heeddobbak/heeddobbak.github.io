@@ -1,8 +1,24 @@
 ---
 layout: post
-title: 'Project One'
+title: "AI Dance Feedback App"
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+## Overview
+This project explores an AI-based training system that analyzes dance fundamentals and provides real-time feedback using pose estimation and motion analysis.
+
+## Key Features
+- Real-time pose estimation using MoveNet / MediaPipe
+- Detection of fundamental dance techniques (posture, alignment, timing)
+- Automated feedback with correction suggestions
+- Data visualization and movement tracking
+
+## Skills & Tools
+- Python, Google Colab, TensorFlow Lite
+- OpenCV, MediaPipe
+- Jupyter Notebook
+- Figma (UX prototype)
+
+## Research Goal
+To design a system that supports dancers by visualizing performance accuracy and proposing corrections in an easy-to-understand format.
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
 
