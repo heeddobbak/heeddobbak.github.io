@@ -14,8 +14,8 @@ projects:
 - {name: 'AI Dance Feedback',   url: 'proj-1'}
 - {name: 'Pose Estimation Experiments',   url: 'proj-2'}
 - {name: 'UX Prototype', url: 'proj-3'}
-- {name: 'Project Four',  url: 'proj-4'}
-- {name: 'Project Five',  url: 'proj-5'}
+#- {name: 'Project Four',  url: 'proj-4'}
+#- {name: 'Project Five',  url: 'proj-5'}
 
 #-------------------------------
 # Contact Section
