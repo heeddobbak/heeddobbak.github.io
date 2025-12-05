@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pose Estimation Experiments"
+title: "Project Two"
 ---
 
 <style>

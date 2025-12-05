@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UX Prototype"
+title: "Project Three"
 ---
 
 ## Overview
