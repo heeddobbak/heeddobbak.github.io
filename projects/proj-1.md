@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI Dance Feedback"
+# title: "AI Dance Feedback" #
 ---
 ## Overview
 This project explores an AI-based training system that analyzes dance fundamentals and provides real-time feedback using pose estimation and motion analysis.
