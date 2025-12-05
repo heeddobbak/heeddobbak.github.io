@@ -13,9 +13,9 @@ The goal is to understand how accurately AI can detect body keypoints during fas
 
 ## Methods
 ### 1. Pose Estimation Models Tested
-- **MediaPipe Pose**
-- **OpenPose (pretrained)**
-- **MoveNet (Google TensorFlow Lite)**
+- **MoveNet (TensorFlow Hub, SinglePose Thunder) — primary**
+- **MediaPipe Pose — explored (compatibility issues on Python 3.12)**
+- **OpenPose (pretrained) — explored**
 
 ### 2. Test Environment
 - Apple MacBook Pro (M2 Pro, 16GB)
