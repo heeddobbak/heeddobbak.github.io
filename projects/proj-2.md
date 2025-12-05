@@ -17,6 +17,8 @@ The goal is to understand how accurately AI can detect body keypoints during fas
 - **MediaPipe Pose — explored (compatibility issues on Python 3.12)**
 - **OpenPose (pretrained) — explored**
 
+<img src="{{ '/assets/projects/proj-2/skeleton_1.jpg' | relative_url }}" alt="stretch reference" loading="lazy">
+
 ### 2. Test Environment
 - Apple MacBook Pro (M2 Pro, 16GB)
 - Google Colab for inference tests
