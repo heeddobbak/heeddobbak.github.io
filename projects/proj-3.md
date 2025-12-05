@@ -51,4 +51,3 @@ This prototype explores how dancers would interact with the AI feedback system t
 ## Conclusion
 This UX prototype demonstrates how AI-driven analysis can be presented in a user-friendly format. The design will evolve based on experiment results from **Project 2**.
 
-

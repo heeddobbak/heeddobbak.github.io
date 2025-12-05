@@ -12,7 +12,7 @@ title: "Pose Estimation Experiments"
   #proj2 img { display:block; max-width:100%; height:auto; margin:0.4rem 0 0.8rem; }
 </style>
 
-<div id="proj2">
+<div id="proj2" markdown="1">
 
 ## Overview
 This project documents my experiments with pose estimation models to analyze dance movements and explore real-time feedback possibilities for the AI Dance Feedback App.
