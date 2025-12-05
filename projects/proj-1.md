@@ -12,10 +12,11 @@ This project explores an AI-based training system that analyzes dance fundamenta
 - Data visualization and movement tracking
 
 ## Skills & Tools
-- Python, Google Colab, TensorFlow Lite
-- OpenCV, MediaPipe
-- Jupyter Notebook
-- Figma (UX prototype)
+- Python, Google Colab
+- MediaPipe Pose, OpenCV for motion analysis
+- NumPy, Matplotlib for visualization
+- Figma for UX design
+
 
 ## Research Goal
 To design a system that supports dancers by visualizing performance accuracy and proposing corrections in an easy-to-understand format.
