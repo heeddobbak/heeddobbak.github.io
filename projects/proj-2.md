@@ -46,8 +46,6 @@ The goal is to understand how accurately AI can detect body keypoints during fas
 ### ✓ Skeleton Visualization
 Below are examples of skeleton estimation applied to sample dance frames:
 
-//{% include image.html url="" image="projects/proj-2/skeleton-sample-1.jpg" %}
-//{% include image.html url="" image="projects/proj-2/skeleton-sample-2.jpg" %}
 
 ### ✓ Limitations Observed
 - Low lighting dramatically reduces joint confidence scores.
