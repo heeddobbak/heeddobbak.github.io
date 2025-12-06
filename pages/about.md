@@ -6,7 +6,7 @@ permalink: /about
 
 ## Hello — I’m Hee Seon Choi
 
-<img src="{{ '/assets//img/about/about_1.jpg' | relative_url }}" alt="stretch reference" loading="lazy">
+<img src="{{ '/assets//img/about/about_2.jpg' | relative_url }}" alt="stretch reference" loading="lazy">
 
 I’m an **AI undergraduate and dancer** building an app for **real-time feedback on dance fundamentals**—posture, alignment, and movement quality.
 
