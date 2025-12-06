@@ -4,6 +4,20 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+## Hello — I’m Hee Seon Choi
+I’m an **AI undergraduate and dancer** building an app for **real-time feedback on dance fundamentals**—posture, alignment, and movement quality.
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+### Direction
+The goal is simple: make practice clear and actionable. I’m prototyping a pipeline that estimates poses, quantifies core metrics, and delivers **concise corrections** during practice. Early experiments run frame-wise in Colab; I’m now evolving them into a **real-time** feedback loop.
+
+### What I’m building
+- **Joint-angle first**: precise per-frame angles of the **knee, shoulder, and elbow**
+- **Basic symmetry**: left–right comparison for knees and shoulders
+- **Confidence gating**: ignore low-confidence keypoints to avoid noisy feedback
+
+### Tech Stack
+Python (Colab), TensorFlow/TF Hub (MoveNet), OpenCV, NumPy/Matplotlib, Figma
+
+### Contact
+Email: heeddobbak@gmail.com
+
