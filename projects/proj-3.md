@@ -3,6 +3,8 @@ layout: post
 title: "Project Three"
 ---
 
+<img src="{{ '/assets//img/projects/proj-3/pr_3_1.jpg' | relative_url }}" alt="stretch reference" loading="lazy">
+
 ## Overview
 This prototype explores how dancers would interact with the AI feedback system through a mobile app interface. The goal is to design a clean, intuitive, and motivating user experience.
 
