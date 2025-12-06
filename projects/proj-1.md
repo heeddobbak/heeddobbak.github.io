@@ -24,4 +24,4 @@ To design a system that supports dancers by visualizing performance accuracy and
 
 <img src="{{ '/assets//img/projects/proj-1/pr_1_1.jpg' | relative_url }}" alt="stretch reference" loading="lazy">
 
-{% include image.html image="projects/proj-1/wall.jpg" nolink=true %}
+<img src="{{ '/assets//img/projects/proj-1/pr_1_2.jpg' | relative_url }}" alt="stretch reference" loading="lazy">
