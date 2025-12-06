@@ -9,9 +9,10 @@ This prototype explores how dancers would interact with the AI feedback system t
 
 ---
 
+## Key Screens
+
 <img src="{{ '/assets//img/projects/proj-3/pr_3_1.jpg' | relative_url }}" alt="stretch reference" loading="lazy">
 
-## Key Screens
 ### 1. **Home Screen**
 - Start Practice
 - View Feedback History
