@@ -29,6 +29,7 @@ The goal is to understand how accurately AI can detect body keypoints during fas
 - **OpenPose (pretrained) — explored**
 
 <img src="{{ '/assets//img/projects/proj-2/macbook.jpg' | relative_url }}" alt="stretch reference" loading="lazy">
+
 ### 2. Test Environment
 - Apple MacBook Pro (M2 Pro, 16GB)
 - Google Colab for inference tests

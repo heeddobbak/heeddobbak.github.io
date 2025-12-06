@@ -16,7 +16,11 @@ The goal is simple: make practice clear and actionable. I’m prototyping a pipe
 - **Confidence gating**: ignore low-confidence keypoints to avoid noisy feedback
 
 ### Tech Stack
-Python (Colab), TensorFlow/TF Hub (MoveNet), OpenCV, NumPy/Matplotlib, Figma
+- Python (Colab)
+- TensorFlow/TF Hub (MoveNet)
+- OpenCV
+- NumPy/Matplotlib
+- Figma
 
 ### Contact
 Email: heeddobbak@gmail.com
