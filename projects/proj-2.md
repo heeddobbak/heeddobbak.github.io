@@ -23,6 +23,7 @@ The goal is to understand how accurately AI can detect body keypoints during fas
 
 ## Methods
 <img src="{{ '/assets//img/projects/proj-2/skeleton_1.jpg' | relative_url }}" alt="stretch reference" loading="lazy">
+
 ### 1. Pose Estimation Models Tested
 - **MoveNet (TensorFlow Hub, SinglePose Thunder) — primary**
 - **MediaPipe Pose — explored (compatibility issues on Python 3.12)**
