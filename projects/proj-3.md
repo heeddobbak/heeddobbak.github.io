@@ -21,6 +21,8 @@ This prototype explores how dancers would interact with the AI feedback system t
 
 ---
 
+<img src="{{ '/assets//img/projects/proj-3/pr_3_2.jpg' | relative_url }}" alt="stretch reference" loading="lazy">
+
 ### 2. **Live Pose Feedback Screen**
 - Real-time skeleton overlay
 - Accuracy score
@@ -29,6 +31,8 @@ This prototype explores how dancers would interact with the AI feedback system t
 
 
 ---
+
+<img src="{{ '/assets//img/projects/proj-3/pr_3_3.jpg' | relative_url }}" alt="stretch reference" loading="lazy">
 
 ### 3. **Performance Summary Screen**
 - Pose accuracy chart
