@@ -1,7 +1,13 @@
 ---
 layout: post
 title: "Project Two"
+permalink: /projects/proj-2/
 ---
+
+<nav class="proj-local-nav" style="margin:6px 0 18px;">
+  <a href="{{ '/projects/proj-2/' | relative_url }}"><b>Overview</b></a> ·
+  <a href="{{ '/projects/proj-2/colab/' | relative_url }}">Colab (View-only)</a>
+</nav>
 
 <style>
   #proj2 .section-title { letter-spacing: 0; line-height: 1.2; margin: 1.4rem 0 0.6rem; }
